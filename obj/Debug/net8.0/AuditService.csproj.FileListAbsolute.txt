@@ -166,3 +166,4 @@ C:\Users\abhsahu\Desktop\PersonalProjects\AuditService\AuditService\bin\Debug\ne
 C:\Users\abhsahu\Desktop\PersonalProjects\AuditService\AuditService\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 C:\Users\abhsahu\Desktop\PersonalProjects\AuditService\AuditService\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 C:\Users\abhsahu\Desktop\PersonalProjects\AuditService\AuditService\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\abhsahu\Desktop\PersonalProjects\AuditService\AuditService\obj\Debug\net8.0\AuditService.sourcelink.json

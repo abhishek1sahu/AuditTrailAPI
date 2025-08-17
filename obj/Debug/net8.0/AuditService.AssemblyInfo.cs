@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AuditService")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+97463fede61775c993efc571ac0313432132e53a")]
 [assembly: System.Reflection.AssemblyProductAttribute("AuditService")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AuditService")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
